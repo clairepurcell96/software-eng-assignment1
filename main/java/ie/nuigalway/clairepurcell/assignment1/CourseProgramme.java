@@ -10,7 +10,7 @@ import org.joda.time.DateTime;
 
 /**
  *
- * @author clairepurcell
+ * @author clairepurcell96
  */
 public class CourseProgramme {
     private final String courseName;
