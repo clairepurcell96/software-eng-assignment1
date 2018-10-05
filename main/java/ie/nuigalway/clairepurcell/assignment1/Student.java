@@ -9,7 +9,7 @@ import org.joda.time.DateTime;
 
 /**
  *
- * @author USER
+ * @author clairepurcell
  */
 public class Student {
     private final String name;

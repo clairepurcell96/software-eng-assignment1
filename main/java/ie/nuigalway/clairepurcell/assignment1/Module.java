@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author USER
+ * @author clairepurcell
  */
 public class Module {
     private final String moduleName;

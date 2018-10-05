@@ -16,7 +16,7 @@ import org.joda.time.DateTime;
 
 /**
  *
- * @author USER
+ * @author clairepurcell
  */
 public class Test {
     public Test() {
