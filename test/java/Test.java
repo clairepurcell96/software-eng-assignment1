@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.BeforeClass;
 
-import ie.nuigalway.clairepurcell.assignment1.*;
+import ie.nuigalway.clairepurcell96.assignment1.*;
 import java.util.ArrayList;
 import org.joda.time.DateTime;
 

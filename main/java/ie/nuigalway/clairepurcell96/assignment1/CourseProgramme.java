@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ie.nuigalway.clairepurcell.assignment1;
+package ie.nuigalway.clairepurcell96.assignment1;
 
 import java.util.ArrayList;
 import org.joda.time.DateTime;
